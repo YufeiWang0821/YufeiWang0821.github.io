@@ -14,7 +14,7 @@ I'm learning NLP, a wondrous and captivating subject, and strving to be a better
 
 **📑Research Interest**
 - Nutural Language Processing: Task-Oriented Dialog Systems
-- Multi-Modal： Image-Text Matching
+- Multi-Modal：Image-Text Matching
 - Prompt Learning
 
 **🧑🏻‍🎓Education**
