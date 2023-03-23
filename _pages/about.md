@@ -13,7 +13,8 @@ Hi there! I'm Yufei Wang (汪宇飞), currently a junior student at the [Huazhon
 I'm learning NLP, a wondrous and captivating subject, and strving to be a better person.
 
 **📑Research Interest**
-- Nutural Language Processing: Task-Oriented Dialog Systems and Multi-Modal Dialog
+- Nutural Language Processing: Task-Oriented Dialog Systems
+- Multi-Modal： Image-Text Matching
 - Prompt Learning
 
 **🧑🏻‍🎓Education**
