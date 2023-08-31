@@ -22,7 +22,7 @@ I'm planning to apply for the **PhD program** starting in **Fall 2024**. Any adv
 - 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020-Jul.2024(expected)*
 
 **🎧Personal Interest**  
-I love listening to [different genres of music](https://spotify.link/RzOIZBXd8xb) and writing [my personal thoughts](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) about the albums I like.
+I love listening to [different genres of music](https://open.spotify.com/user/31uek737q5tm2feec2urkz77papq?si=5W3zz3ACRxKpPoGpffYBxA) and writing [my personal thoughts](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) about the albums I like.
 Check it out. You might find your favorite album! Communication about music is always welcome!
 
 **🖇️Other Stuff**  
