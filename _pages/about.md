@@ -18,8 +18,8 @@ Hi there! I'm Yufei Wang (汪宇飞), currently a PhD candidate at the [Huazhong
 
 **🧑🏻‍🎓Education**
 
-- 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020-Jul.2024*
-- 🇨🇳 PhD · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2024-Present*
+- 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020 - Jul.2024*
+- 🇨🇳 PhD · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2024 - Present*
 
 **🎧Personal Interest**
 
