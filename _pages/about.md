@@ -23,7 +23,7 @@ Hi there! I'm Yufei Wang (汪宇飞), currently a PhD candidate at the [Huazhong
 
 **🎧Personal Interest**
 
-I love listening to [different genres of music](https://open.spotify.com/user/31uek737q5tm2feec2urkz77papq?si=5W3zz3ACRxKpPoGpffYBxA) and writing [my personal thoughts](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) about the albums I like.
+I love listening to [different genres of music](https://open.spotify.com/user/31uek737q5tm2feec2urkz77papq?si=5W3zz3ACRxKpPoGpffYBxA) and writing [my personal reviews](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) about the albums I like.
 Check it out. You might find your favorite album! Communication about music is always welcome!
 
 **🖇️Other Stuff**
