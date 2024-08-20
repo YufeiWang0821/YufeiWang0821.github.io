@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About Me
 
-Hi there! I'm Yufei Wang (汪宇飞), currently a PhD candidate at the [Huazhong University of Science and Technology](https://hust.edu.cn/). I'm now honored to be advised by [Prof. Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm) and [Prof. Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm).
+Hi there! I'm Yufei Wang (汪宇飞), currently a PhD student at [Huazhong University of Science and Technology](https://hust.edu.cn/). I'm honored to be advised by [Prof. Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm) and [Prof. Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm).
 
 **📑Research Interest**
 
